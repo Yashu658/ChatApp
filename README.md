@@ -42,19 +42,23 @@ ChatApp provides fast, secure, and scalable communication with features like **a
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshots  
+
+### 🔹 Welcome Page  
+![Welcome Page](./frontend/Screenshot/chatwelcome.png)  
 
 ### 🔹 About Us Page  
-![About Page](./Screenshots/chatabout.png)  
+![About Page](./frontend/Screenshot/chatabout.png)  
 *(Displays the mission statement, features, and team info for ChatApp)*  
 
 ### 🔹 Contact Page  
-![Contact Page](./Sreenshots/chatcontact.png)  
+![Contact Page](./frontend/Screenshot/chatcontact.png)  
 *(Contact form with name, email, message + support details and social links)*  
 
 ### 🔹 Chat Interface  
-![Chat UI](./Screenshots/chatwithyas.png)  
-![Chat Dark Mode](./Screenshots/chatwithss.png) 
+![Chat UI](./frontend/Screenshot/chatwithyas.png)  
+![Chat Dark Mode](./frontend/Screenshot/chatwithss.png)  
+
 
 ## 🚀 Getting Started
 
