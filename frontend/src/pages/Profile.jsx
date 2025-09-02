@@ -37,7 +37,7 @@ const Profile = () => {
   const handelSave = async () => {
     setLoading(true);
     const formData = new FormData();
-    formData.append("name", data.fullName);
+    formData.append("name", data.name);
     formData.append("email", data.email);
     formData.append("photo", photo);
 
@@ -53,7 +53,8 @@ const Profile = () => {
       setIsLogin(true);
       toast.success(res.data.message);
     } catch (error) {
-      toast.error(error);
+      console.error(error); 
+      toast.error(error.response?.data?.message || error.message || "Update failed");
     } finally {
       setLoading(false);
     }
@@ -85,8 +86,8 @@ const Profile = () => {
           <div className="flex flex-col items-center gap-4">
             <input
               type="text"
-              name="fullName"
-              value={data.fullName}
+              name="name"
+              value={data.name}
               onChange={handleChange}
               className="text-center text-2xl border-b-2 border-gray-300 focus:outline-none focus:border-[#FF4081] bg-transparent"
             />
