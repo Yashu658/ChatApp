@@ -45,16 +45,16 @@ ChatApp provides fast, secure, and scalable communication with features like **a
 ## 📷 Screenshots
 
 ### 🔹 About Us Page  
-![About Page](./screenshots/chatabout.png)  
+![About Page](./Screenshots/chatabout.png)  
 *(Displays the mission statement, features, and team info for ChatApp)*  
 
 ### 🔹 Contact Page  
-![Contact Page](./client/screenshots/chatcontact.png)  
+![Contact Page](./Sreenshots/chatcontact.png)  
 *(Contact form with name, email, message + support details and social links)*  
 
 ### 🔹 Chat Interface  
-![Chat UI](./screenshots/chatwithyas.png)  
-![Chat Dark Mode](./screenshots/chatwithss.png) 
+![Chat UI](./Screenshots/chatwithyas.png)  
+![Chat Dark Mode](./Screenshots/chatwithss.png) 
 
 ## 🚀 Getting Started
 
