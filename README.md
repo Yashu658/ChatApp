@@ -36,8 +36,7 @@ ChatApp provides fast, secure, and scalable communication with features like **a
 
 ### 🔹 Future Enhancements
 - Group chats with multiple participants.  
-- Message reactions (like, love, etc.).  
-- Media sharing (images, files, voice notes).  
+- Message reactions (like, love, etc.).    
 - Read receipts & typing indicators.  
 
 ---
